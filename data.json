@@ -1,0 +1,456 @@
+{
+    "vereadores": [
+      {
+          "id": 1,
+          "nome": "LUCAS MARTINS",
+          "titulo": "LUCAS DO ESPORTE",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+          "partido": "PP",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 2,
+          "nome": "MARIA OLIVEIRA",
+          "titulo": "MARIA DA SAÚDE",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+          "partido": "PL",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 3,
+          "nome": "JOÃO SILVA",
+          "titulo": "JOÃO DO BEM",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+          "partido": "PL",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 4,
+          "nome": "ANA SOARES",
+          "titulo": "ANA DA COMUNIDADE",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+          "partido": "PSC",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 5,
+          "nome": "PEDRO ALMEIDA",
+          "titulo": "PEDRO DO POVO",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+          "partido": "PSC",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 6,
+          "nome": "CARLA MOURA",
+          "titulo": "CARLA DA FARMÁCIA",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+          "partido": "PSD",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 7,
+          "nome": "ROBERTO COSTA",
+          "titulo": "ROBERTO DO TRABALHO",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+          "partido": "PSC",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 8,
+          "nome": "FERNANDO PINTO",
+          "titulo": "FERNANDO DA GENTE",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+          "partido": "PTB",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 9,
+          "nome": "LUIZ CARVALHO",
+          "titulo": "LUIZ LEGAL",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+          "partido": "PTB",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 10,
+          "nome": "CAMILA RIBEIRO",
+          "titulo": "CAMILA DA EDUCAÇÃO",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+          "partido": "PSD",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      },
+      {
+          "id": 11,
+          "nome": "RENATO PEREIRA",
+          "titulo": "RENATO DA SOLIDARIEDADE",
+          "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+          "partido": "SOLIDARIEDADE",
+          "presencas": 17,
+          "faltas": 0,
+          "resumo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non velit nec leo suscipit luctus. Ut tempus lobortis vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque placerat libero quis magna congue, at scelerisque odio ultricies. Vivamus id est et sem hendrerit fringilla. Morbi varius urna sed neque ornare fringilla. Aenean ipsum turpis, finibus quis venenatis eget, placerat at mi. Proin blandit neque non nisi convallis consequat. Maecenas viverra, sem sit amet molestie porttitor, lectus tortor sodales massa, tincidunt efficitur leo nisl ut turpis. Ut ut elit eros. Nunc non aliquam ligula. In sollicitudin, magna nec finibus scelerisque, lacus dui finibus urna, ut pharetra odio felis id risus. Nunc et est vel purus commodo ornare sit amet a eros. Mauris volutpat purus a augue venenatis, ut cursus urna ornare. In leo metus, ultrices malesuada aliquet a, gravida ut odio."
+      }
+    ],
+
+
+    "gestao": [
+    {
+        "id": 1,
+        "nome": "ASH KETCHUM",
+        "titulo": "PREFEITO",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    },
+    {
+        "id": 2,
+        "nome": "MISTY WATERFLOWER",
+        "titulo": "VICE-PREFEITA/SECRETARIA DE SAÚDE",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+        "id": 3,
+        "nome": "BROCK SLATE",
+        "titulo": "",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
+    },
+    {
+        "id": 4,
+        "nome": "JAMES ROCKET",
+        "titulo": "SECRETARIA DE FAZENDA",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
+    },
+    {
+        "id": 5,
+        "nome": "JESSIE ROCKET",
+        "titulo": "SECRETARIA DE ADMINISTRAÇÃO",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png"
+    },
+    {
+        "id": 6,
+        "nome": "GARY OAK",
+        "titulo": "SECRETARIA DE ASSISTÊNCIA SOCIAL",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+    },
+    {
+        "id": 7,
+        "nome": "TRACY SKETCHIT",
+        "titulo": "SECRETARIA DE PLANEJAMENTO",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/177.png"
+    },
+    {
+        "id": 8,
+        "nome": "MAY MAPLE",
+        "titulo": "SECRETARIA DE INFRAESTRUTURA",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png"
+    },
+    {
+        "id": 9,
+        "nome": "DAWN BERLIN",
+        "titulo": "SECRETARIA MUNICIPAL DE TRANSPORTES",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png"
+    },
+    {
+        "id": 10,
+        "nome": "SERENA YVONNE",
+        "titulo": "CONTROLADORIA GERAL DO MUNICÍPIO",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/653.png"
+    },
+    {
+        "id": 11,
+        "nome": "CLEMONT LUMIOSE",
+        "titulo": "SECRETARIA MUNICIPAL DE CULTURA E TURISMO",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/702.png"
+    },
+    {
+        "id": 12,
+        "nome": "LILLIE AETHER",
+        "titulo": "SECRETARIA DE MEIO AMBIENTE",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/771.png"
+    },
+    {
+        "id": 13,
+        "nome": "GLADION AETHER",
+        "titulo": "SECRETARIA MUNICIPAL DE ESPORTE",
+        "foto": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png"
+    }
+    ],
+
+
+    "projetos_executivos_processo": [
+      {
+        "id": 1,
+        "titulo": "Requalificação de Praças Públicas",
+        "descricao":
+          "Este projeto propõe a revitalização de diversas praças públicas na cidade, incluindo melhorias na infraestrutura, instalação de equipamentos de lazer, paisagismo e iluminação adequada.",
+        "autoria": "Secretaria Municipal de Urbanismo e Meio Ambiente",
+        "beneficios": ["Melhoria da qualidade de vida da população", "Incentivo ao convívio social", "valorização dos espaços públicos", "Aumento do turismo local", "Promoção da segurança."],
+        "data_votacao": "",
+        "data_inicio": "15 de maio de 2023",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 9,
+        "qtd_votos_nao": 2,
+        "cadidatos_contra": [5,9],
+        "cadidatos_a_favor": [1,2,3,4,6,7,8,10,11],
+        "status": "Em Andamento"
+      },
+      {
+        "id": 2,
+        "titulo": "Implantação de Ciclovias Urbanas",
+        "descricao":
+          "Este projeto visa a criação de uma rede de ciclovias conectando diversos bairros da cidade, proporcionando uma alternativa de transporte sustentável e segura para os ciclistas.",
+        "autoria": "Secretaria Municipal de Transportes e Mobilidade Urbana",
+        "beneficios": ["Redução do tráfego de veículos", "Melhoria da qualidade do ar", "Estímulo ao exercício físico", "Promoção do turismo ecológico", "Diminuição de acidentes de trânsito."],
+        "data_votacao": "",
+        "data_inicio": "10 de agosto de 2022",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 11,
+        "qtd_votos_nao": 0,
+        "cadidatos_contra": [],
+        "cadidatos_a_favor": [1,2,3,4,5,6,7,8,9,10,11],
+        "status": "Em Andamento"
+      },
+      {
+        "id": 3,
+        "titulo": "Modernização do Sistema de Iluminação Pública",
+        "descricao":
+          "Este projeto tem como objetivo substituir a iluminação pública convencional por tecnologias mais eficientes e sustentáveis, como lâmpadas LED, visando reduzir o consumo de energia e os custos de manutenção.",
+        "autoria": "Secretaria Municipal de Serviços Públicos",
+        "beneficios": ["Economia de energia elétrica", "Redução da emissão de carbono", "Aumento da segurança nas ruas", "Valorização das áreas urbanas", "Melhoria da visibilidade noturna."],
+        "data_votacao": "",
+        "data_inicio": "25 de setembro de 2023",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 8,
+        "qtd_votos_nao": 3,
+        "cadidatos_contra": [1,5,10],
+        "cadidatos_a_favor": [2,3,4,6,7,8,9,11],
+        "status": "Em Andamento"
+      },
+      {
+        "id": 4,
+        "titulo": "Revitalização de Áreas Degradadas",
+        "descricao":
+          "Este projeto propõe a recuperação de áreas degradadas dentro da cidade, como terrenos baldios e margens de rios, por meio de ações de reflorestamento, saneamento básico e criação de espaços de lazer.",
+        "autoria": "Secretaria Municipal de Meio Ambiente e Desenvolvimento Urbano",
+        "beneficios": ["Preservação da biodiversidade", "Melhoria da qualidade da água", "Redução de enchentes", "Aumento da qualidade de vida da população", "valorização imobiliária."],
+        "data_votacao": "",
+        "data_inicio": "5 de abril de 2023",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 7,
+        "qtd_votos_nao": 4,
+        "cadidatos_contra": [5,6,7,8,9,10,11],
+        "cadidatos_a_favor": [1,2,3,4],
+        "status": "Em Andamento"
+      },
+      {
+        "id": 5,
+        "titulo": "Ampliação e Modernização da Rede de Bibliotecas Públicas",
+        "descricao":
+          "Este projeto prevê a ampliação do número de bibliotecas públicas na cidade, bem como a modernização das existentes, com a introdução de novas tecnologias e acervos atualizados, visando promover o acesso à informação e cultura.",
+        "autoria": "Secretaria Municipal de Educação e Cultura",
+        "beneficios": ["Estímulo à leitura", "Promoção da educação e cultura", "Inclusão social", "Formação de cidadãos mais críticos e informados", "Redução do analfabetismo funcional."],
+        "data_votacao": "",
+        "data_inicio": "20 de janeiro de 2024",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 11,
+        "qtd_votos_nao": 0,
+        "cadidatos_contra": [],
+        "cadidatos_a_favor": [1,2,3,4,5,6,7,8,9,10,11],
+        "status": "Em Andamento"
+      }
+    ],
+
+    "projetos_legislativos_votados": [
+      {
+        "id": 1,
+        "titulo": "Lei de Incentivo à Agricultura Familiar",
+        "descricao":
+          "Propõe a criação de incentivos fiscais para agricultores familiares, visando fortalecer a produção local de alimentos.",
+        "autoria": "FABIANO TEIXEIRA",
+        "beneficios": ["Fortalecimento da economia local", "Melhoria da segurança alimentar", "Estímulo ao desenvolvimento sustentável"],
+        "data_votacao": "17 de abril de 2023",
+        "data_inicio": "",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 8,
+        "qtd_votos_nao": 3,
+        "cadidatos_contra": [2,5,9],
+        "cadidatos_a_favor": [1,3,4,6,7,8,10,11],
+        "status": "Votado"
+      },
+      {
+        "id": 2,
+        "titulo": "Programa de Combate ao Desperdício de Água",
+        "descricao":
+          "Estabelece medidas para reduzir o desperdício de água, como a promoção de campanhas educativas e incentivos para instalação de sistemas de reuso.",
+        "autoria": "EDUARDO LOPES",
+        "beneficios": ["Preservação dos recursos hídricos", "Redução das contas de água", "Mitigação de impactos ambientais"],
+        "data_votacao": "30 de novembro de 2022",
+        "data_inicio": "",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 11,
+        "qtd_votos_nao": 0,
+        "cadidatos_contra": [],
+        "cadidatos_a_favor": [1,2,3,4,5,6,7,8,9,10,11],
+        "status": "Votado"
+      },
+      {
+        "id": 4,
+        "titulo": "Lei de Proteção aos Animais de Rua",
+        "descricao":
+          "Estabelece diretrizes para o cuidado e proteção de animais de rua, incluindo programas de castração e adoção responsável.",
+        "autoria": "GILMARA FISIOTERAPEUTA",
+        "beneficios": ["Redução do abandono de animais", "Controle populacional de cães e gatos", "Promoção do bem-estar animal"],
+        "data_votacao": "05 de abril de 2023",
+        "data_inicio": "",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 6,
+        "qtd_votos_nao": 5,
+        "cadidatos_contra": [5,6,7,8,9,10],
+        "cadidatos_a_favor": [1,2,3,4, 11],
+        "status": "Votado"
+      },
+      {
+        "id": 5,
+        "titulo": "Lei de Incentivo à Cultura Local",
+        "descricao":
+          "Estabelece políticas de incentivo financeiro e apoio a eventos culturais locais, como festivais de música, teatro e exposições de arte.",
+        "autoria": "THIAGO WERMELINGER",
+        "beneficios":["Fomento à cultura local", "Estímulo ao turismo cultural", "Valorização de artistas regionais"],
+        "data_votacao": "",
+        "data_inicio": "",
+        "data_fim": "",
+        "qtd_votos": 11,
+        "qtd_votos_sim": 3,
+        "qtd_votos_nao": 8,
+        "cadidatos_contra": [1,2,3,5,6,7,8, 9],
+        "cadidatos_a_favor": [4,10,11],
+        "status": "Votado"
+      }
+    ],
+
+    "projetos_legislativos_processo": [
+        {
+            "id": 1,
+            "titulo": "Lei de Incentivo à Agricultura Familiar",
+            "descricao":
+              "Propõe a criação de incentivos fiscais para agricultores familiares, visando fortalecer a produção local de alimentos.",
+            "autoria": "FABIANO TEIXEIRA",
+            "beneficios": ["Fortalecimento da economia local", "Melhoria da segurança alimentar", "Estímulo ao desenvolvimento sustentável"],
+            "data_votacao": "17 de abril de 2023",
+            "data_inicio": "01 de janeiro de 2024",
+            "data_fim": "",
+            "qtd_votos": 11,
+            "qtd_votos_sim": 8,
+            "qtd_votos_nao": 3,
+            "cadidatos_contra": [2,5,9],
+            "cadidatos_a_favor": [1,3,4,6,7,8,10,11],
+            "status": "Em Andamento"
+          },
+          {
+            "id": 2,
+            "titulo": "Programa de Combate ao Desperdício de Água",
+            "descricao":
+              "Estabelece medidas para reduzir o desperdício de água, como a promoção de campanhas educativas e incentivos para instalação de sistemas de reuso.",
+            "autoria": "EDUARDO LOPES",
+            "beneficios": ["Preservação dos recursos hídricos", "Redução das contas de água", "Mitigação de impactos ambientais"],
+            "data_votacao": "30 de novembro de 2022",
+            "data_inicio": "01 de janeiro de 2023",
+            "data_fim": "",
+            "qtd_votos": 11,
+            "qtd_votos_sim": 11,
+            "qtd_votos_nao": 0,
+            "cadidatos_contra": [],
+            "cadidatos_a_favor": [1,2,3,4,5,6,7,8,9,10,11],
+            "status": "Em Andamento"
+          },
+          {
+            "id": 4,
+            "titulo": "Lei de Proteção aos Animais de Rua",
+            "descricao":
+              "Estabelece diretrizes para o cuidado e proteção de animais de rua, incluindo programas de castração e adoção responsável.",
+            "autoria": "GILMARA FISIOTERAPEUTA",
+            "beneficios": ["Redução do abandono de animais", "Controle populacional de cães e gatos", "Promoção do bem-estar animal"],
+            "data_votacao": "05 de abril de 2023",
+            "data_inicio": "01 de novembro de 2023",
+            "data_fim": "",
+            "qtd_votos": 11,
+            "qtd_votos_sim": 6,
+            "qtd_votos_nao": 5,
+            "cadidatos_contra": [5,6,7,8,9,10],
+            "cadidatos_a_favor": [1,2,3,4, 11],
+            "status": "Em Andamento"
+          }
+    ],
+
+    "sessoes": [
+      {
+        "data_cadastro": "2024-08-21 10:11:31",
+        "informacoes": {
+            "ações": [
+                {
+                    "ação": "Presidiu a sessão, declarou abertos os trabalhos e encerrou a sessão em nome de Deus.",
+                    "vereador": "Vereador 1"
+                },
+                {
+                    "ação": "Aprovação da ata da sessão anterior.",
+                    "vereador": "Vereador 2"
+                },
+                {
+                    "ação": "Apresentou as Indicações n° 208 e 209/2024 ao Exmo. Sr. Prefeito Municipal de Sapucaia.",
+                    "vereador": "Vereador 3"
+                },
+                {
+                    "ação": "Parabenizou os agraciados com Moções de Aplausos e os organizadores do evento 'Moto Rock'.",
+                    "vereador": "Vereador 4"
+                },
+                {
+                    "ação": "Parabenizou o Executivo Municipal pelas obras inauguradas, como a Creche do Distrito de Jamapará e o Hospital Municipal.",
+                    "vereador": "Vereador 5"
+                },
+                {
+                    "ação": "Colocou em votação o Projeto de Lei n° 037/2024, que foi aprovado por todos.",
+                    "vereador": "Vereador 1"
+                },
+                {
+                    "ação": "Colocou em discussão e votação o Projeto de Lei n° 031/2024, que foi aprovado por todos.",
+                    "vereador": "Vereador 1"
+                }
+            ],
+            "vereadores_faltaram": [
+                "Vereador 6"
+            ]
+        },
+        "sumario": "Durante a 19ª Sessão Ordinária da Câmara Municipal de Sapucaia, realizada em 24 de junho de 2024, os vereadores discutiram a inauguração do Hospital Municipal, a importância de melhorias na cidade, e aprovaram diversos projetos de lei, incluindo a autorização para abertura de créditos adicionais e a denominação de espaços públicos. A sessão, presidida por Cristiano Ronaldo, também abordou solicitações para melhorias em transporte, iluminação pública, e manutenção de espaços públicos, destacando o compromisso com o bem-estar da população. O Projeto de Lei n° 031/2024, que estabelece a Estrutura Administrativa da Câmara, foi aprovado por unanimidade, e a próxima sessão está agendada para 5 de agosto.",
+        "titulo": "ata_24_06_2024"
+    }
+    ]
+
+   
+
+}

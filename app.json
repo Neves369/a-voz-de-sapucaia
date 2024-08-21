@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "voto-limpo",
-    "slug": "voto-limpo",
+    "name": "A voz de Sapucaia",
+    "slug": "A-voz-de-sapucaia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
@@ -18,6 +18,10 @@
       "supportsTablet": true
     },
     "android": {
+      "userInterfaceStyle": "automatic",
+      "package": "com.teste.vozdesapucaia",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +29,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6006634f-a888-45fd-b8cf-17b83ffcc046"
+      }
     }
   }
 }
